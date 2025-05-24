@@ -1,0 +1,6 @@
+streamlit
+serper
+openrouter
+python-dotenv
+requests
+pandas
