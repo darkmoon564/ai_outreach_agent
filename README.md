@@ -10,7 +10,7 @@ A tool to generate personalized cold emails using LLMs and real-time Google-base
 - Runs in **demo mode** — no real emails sent
 
 ## 🚀 Live Demo
-Try it here (Streamlit Cloud): [YOUR_DEPLOYMENT_URL]
+Try it here (Streamlit Cloud): [https://aioutreachagent-njyjcnmgjiuxsgdr9z6qui.streamlit.app/]
 
 ## 🧠 Stack
 - Streamlit
